@@ -29,9 +29,11 @@ Pandas and Numpy,
 Matplotlib and Seaborn,
 
 **Website FrontEnd:** 
-Python Flask Framework,
 Html,
 CSS,
+
+**Website FrontEnd:** 
+Python Flask Framework,
 
 **Cloud Application Platform:**
 Heroku Cloud Platform 
