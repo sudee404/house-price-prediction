@@ -20,7 +20,7 @@ Press the Predict button
 The Output button will show you the predicted house value
 ## Tech Stack
 
-**Data Science:** Python, Supervised Machine Learning Algorithms, Scikit Learning, Pandas and Numpy, Matplotlib and Seaborn,
+**Data Science:** Python, Supervised Machine Learning Algorithms, Scikit Learning, Pandas and Numpy, Matplotlib and Seaborn,Jupyter notebooks
 
 **Website UI:** HTML, CSS
 
